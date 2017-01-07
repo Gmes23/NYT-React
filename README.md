@@ -4,14 +4,12 @@
 * [Visit the Site](https://gmmongoscraper.herokuapp.com/)
 
 
-In this assignment, I created a web app that lets users leave comments on the latest news. But I didnt actually write any articles;
- instead, I flexed my Mongoose and Cheerio muscles to scrape news from another site. The site is build with Node.js and saves user comments,
- articles, and photos to my mongo database, hosted on heroku.
+In this project I built a web app using React-based renditions of the New York Times Article Search application with the help of their API. I created React components, work with helper functions, and utilize the React mounting lifecycle to query and display articles based on user searches. I also used Node, Express and MongoDB so that users can save articles to read later.
 
 The site itself http://www.webdesignerdepot.com/category/javascript/
 
 ####Web App Demo:
-[![web app](https://cloud.githubusercontent.com/assets/20157000/21745463/02a5ca20-d4fb-11e6-868e-be81d261bdbc.png)](https://gmmongoscraper.herokuapp.com/)
+[![web app](https://cloud.githubusercontent.com/assets/20157000/21745490/7a906d7e-d4fb-11e6-8746-da028777e501.jpg)](https://gmmongoscraper.herokuapp.com/)
 
 
 ###Tech I used
@@ -19,9 +17,7 @@ The site itself http://www.webdesignerdepot.com/category/javascript/
 * express
 * express-handlebars
 * mongoose
-* body-parser
-* cheerio
-* request
+* React
 
 ` `
 
